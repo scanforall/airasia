@@ -1,0 +1,36 @@
+.footer-container {
+    margin-top: auto;
+}
+
+.inner-footer__container {
+    padding: 40px 0;
+}
+
+.inner-footer {
+    margin-top: auto;
+}
+
+.footer-container__content {
+    border-top: 1px solid #192f37;
+}
+
+.footer-container__content {
+    height: 130px;
+    padding-top: 38px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer__col {
+    display: flex;
+    align-items: center;
+}
+
+.footer__col--align--riight {
+    align-items: flex-end;
+}
+

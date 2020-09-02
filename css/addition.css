@@ -1,0 +1,81 @@
+body {
+    font-family: "Open Sans", Helvetica, sans-serif;
+    color: white;
+    font-size: 16px;
+    line-height: 1.42;
+    background: #001821;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: antialiased;   
+}
+
+input {
+    border: none;
+}
+
+textarea {
+    border: none;
+}
+
+a {
+    color: inherit;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-weight: normal;
+}
+
+p {
+    margin-top: 0;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body, html {
+    height: 100%;
+}
+
+img {
+    display: block;
+    max-width: 100%;   
+}
+
+button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+:active,:hover,:focus{outline:0;outline-offset:0}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    overflow: hidden;
+    min-width: 1200px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1140px;
+}
+
+.wrapper--bg--main {
+    background: url(/img/bg/hero.jpg) center top no-repeat, url(/img/bg/bottom-pic.jpg) right -296px bottom 332px no-repeat;
+    overflow: hidden;
+    min-width: 1150px;
+}
+

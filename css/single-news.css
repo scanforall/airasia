@@ -1,0 +1,38 @@
+.single-news {
+    position: relative;
+    border-radius: 4px;
+    overflow: hidden;    
+}
+
+.single-news__cover {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: .7;
+}
+
+.single-news__text-content {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 16px;
+    padding: 0 30px;
+    min-height: 126px;
+}
+
+.single-news__date {
+    font-size: 14px;
+    margin-bottom: 18px;
+}
+
+.single-news__title {
+    margin-top: 14px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.single-news__desc {
+    font-size: 16px;
+}

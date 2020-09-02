@@ -1,0 +1,7 @@
+.terms {
+    display: flex;
+    justify-content: space-between;
+    width: 275px;
+    align-items: center;
+    margin-bottom: 25px;
+}

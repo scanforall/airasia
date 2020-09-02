@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+.header__col {
+    display: flex;
+    align-items: center ;
+}
+
+.header__col--align--right {
+    justify-content: flex-end;
+}
