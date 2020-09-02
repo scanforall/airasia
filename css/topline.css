@@ -1,5 +1,5 @@
 .top-line {    
-    background: #001821 url("./img/bg/headline.jpg") center top no-repeat;
+    background: #001821 url("../img/bg/headline.jpg") center top no-repeat;
     min-height: 410px;
     display: flex;
     flex-direction: column;
