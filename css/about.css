@@ -12,12 +12,12 @@
     content: "";
     width: 488px;
     height: 502px;
-    background: url("/img/decor/gates.jpg") center center / cover no-repeat;
+    background: url("./img/decor/gates.jpg") center center / cover no-repeat;
 }
 
 .about__desc {
     color: black;
-    background: url("/img/decor/mountains.jpg") center center / cover no-repeat;
+    background: url("./img/decor/mountains.jpg") center center / cover no-repeat;
     padding: 67px 97px;
     max-width: 780px;
     min-height: 455px;
