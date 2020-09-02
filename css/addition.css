@@ -74,7 +74,7 @@ button {
 }
 
 .wrapper--bg--main {
-    background: url(/img/bg/hero.jpg) center top no-repeat, url(/img/bg/bottom-pic.jpg) right -296px bottom 332px no-repeat;
+    background: url(../img/bg/hero.jpg) center top no-repeat, url(../img/bg/bottom-pic.jpg) right -296px bottom 332px no-repeat;
     overflow: hidden;
     min-width: 1150px;
 }
